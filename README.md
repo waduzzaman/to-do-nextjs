@@ -1,4 +1,10 @@
 # To-Do List App Documentation
+==========================
+## Live Link: 
+https://to-do-list-ruddy-one-93.vercel.app/
+
+## Live GitHub: 
+https://github.com/waduzzaman/to-do-nextjs
 
 ## Overview
 This To-Do List application is built using [Next.js](https://nextjs.org) and allows users to create, update, and delete tasks with start and end dates. Tasks are stored in the browser's local storage, so they persist even after the app is closed and reopened.
